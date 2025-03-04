@@ -25,4 +25,9 @@ The Personal Finance Tracker is a simple Python-based application built using Tk
  # Run the Script
  python ASSESSMENT.py
 
+ # Screenshot of the work
+ 
+ ![Finance Tracker](https://github.com/user-attachments/assets/88464704-7626-4643-a4f3-4ab01ed6a67f)
+
+
 
