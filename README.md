@@ -19,3 +19,10 @@ The Personal Finance Tracker is a simple Python-based application built using Tk
 2. Clone this repository:  
    ```sh
    git clone https://github.com/RabHuss/GIT_Assessment.git
+# To nivigate to the project folder
+   cd ASSESSMENT
+
+ # Run the Script
+ python ASSESSMENT.py
+
+
